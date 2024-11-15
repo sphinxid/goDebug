@@ -15,7 +15,7 @@ A lightweight Go-based debugging tool for inspecting HTTP headers, client IP add
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/goDebug
+git clone https://github.com/sphinxid/goDebug
 cd goDebug
 ```
 
